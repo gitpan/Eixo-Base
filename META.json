@@ -1,5 +1,5 @@
 {
-   "abstract" : "unknown",
+   "abstract" : "Another Perl extension for Classes and Objects",
    "author" : [
       "Francisco Maseda <frmadem@gmail.com>",
       "Javier Gomez <alambike@gmail.com>"
@@ -36,5 +36,5 @@
       }
    },
    "release_status" : "stable",
-   "version" : "1.01"
+   "version" : "1.02"
 }
