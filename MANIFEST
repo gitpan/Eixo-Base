@@ -4,6 +4,8 @@ MANIFEST
 Makefile.PL
 README
 README.md
+META.json
+META.yml
 lib/Eixo/Base.pm
 lib/Eixo/Base/Clase.pm
 lib/Eixo/Base/Util.pm
@@ -12,5 +14,3 @@ t/002_class_methods_validation.t
 t/003_sub_validation.t
 t/Eixo-Base.t
 t/test_base.pm
-META.yml                                 Module YAML meta-data (added by MakeMaker)
-META.json                                Module JSON meta-data (added by MakeMaker)
